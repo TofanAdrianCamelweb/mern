@@ -1,0 +1,15 @@
+.modal-content{
+  label{
+    padding: 10px;
+  }
+  input{
+    &::placeholder{
+      text-align: center;
+    }
+    float: right;
+    padding: 10px;
+  }
+  .form-group{
+    //border: 1px solid black;
+  }
+}
